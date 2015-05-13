@@ -1,0 +1,13 @@
+{
+  "name": "node-event-logger-server",
+  "version": "0.0.0",
+  "description": "Gets logged events from MongoDB",
+  "main": "",
+  "devDependencies": {},
+  "dependencies": {
+    "express": "^4.10.4",
+    "mongodb": "^1.4.22"
+  },
+  "author": "",
+  "license": "All rights reserved"
+}
